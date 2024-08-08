@@ -21,25 +21,25 @@ The project involves designing, configuring, and implementing a basic network fo
 
 <p align="center">
 Select Hardware for the network: <br/>
-<img src="https://imgur.com/5azP0K1" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/5azP0K1.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/uBOZnAe" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/uBOZnAe.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Add the correct cables for each device (Copper straight-through and Coaxial cable):  <br/>
-<img src="https://imgur.com/iBx7XYA" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/iBx7XYA.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Configure PC to use DHCP: <br/>
-<img src="https://imgur.com/MmadDxn" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/MmadDxn.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Configure Laptop to connect with wireless router:  <br/>
-<img src="https://imgur.com/cK7t8aw" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/cK7t8aw.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Ping the PC and Laptop to the Cisco sever:  <br/>
-<img src="https://imgur.com/6sIn20o" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/6sIn20o.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
